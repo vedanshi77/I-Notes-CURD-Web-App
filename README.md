@@ -2,8 +2,10 @@
   I-Notes CURD Web App is a modern, user-friendly web application for efficient note management. Designed with simplicity and functionality in mind, it allows users to create, read, update, and delete (CRUD) notes effortlessly. Built using HTML5, Bootstrap, jQuery, JavaScript, PHP, and MySQL, it offers a responsive design and dynamic interactivity. With DataTables integration, users can sort, filter, and paginate notes with ease. Whether for personal or professional use, I-Notes CURD Web App simplifies organization and enhances productivity.
 
 Title: iNotes - Add and Manage Notes
+
 Description:
 This screenshot displays the main interface of the iNotes application, a note-taking web system built with PHP and MySQL. The UI includes:
+
 A navigation bar with links to Home, About, and Contact Us
 A form section to add a new note with a Note Title and Note Description
 A data table listing all existing notes with serial number, title, and description
